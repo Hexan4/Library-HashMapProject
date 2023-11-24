@@ -22,7 +22,7 @@ public class UserInterface {
         System.out.println("enter author of book");
         String author = scanner.nextLine();
         if (author.equals("xD")){
-            System.out.println("xDDD");
+            System.out.println("xDD");
         }
         PrintBooks(numOfPages, title,author);
     }
